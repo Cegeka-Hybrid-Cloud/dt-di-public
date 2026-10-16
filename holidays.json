@@ -3,7 +3,7 @@
     "themeName": "easter",
     "themeStart": "2023-04-02",
     "themeEnd": "2023-04-14",
-    "themeLogo": "https://raw.githubusercontent.com/Cegeka-Hybrid-Cloud/pc-cc-insights-public/main/img/Logo_Design_Final-09.svg"
+    "themeLogo": "https://raw.githubusercontent.com/Cegeka-Hybrid-Cloud/dt-di-public/main/img/Logo_Design_Final-09.svg"
 },
 {
     "themeName": "christmas",
@@ -15,12 +15,12 @@
     "themeName": "halloween",
     "themeStart": "2025-10-24",
     "themeEnd": "2025-11-14",
-    "themeLogo": "https://raw.githubusercontent.com/Cegeka-Hybrid-Cloud/pc-cc-insights-public/main/img/Cegeka_Logo_White_Logo_RGB_cut_small_halloween.PNG"
+    "themeLogo": "https://raw.githubusercontent.com/Cegeka-Hybrid-Cloud/dt-di-public/main/img/Cegeka_Logo_White_Logo_RGB_cut_small_halloween.PNG"
 },
 {
     "themeName": "christmas",
     "themeStart": "2025-12-19",
     "themeEnd": "2025-12-28",
-    "themeLogo": "https://raw.githubusercontent.com/Cegeka-Hybrid-Cloud/pc-cc-insights-public/main/img/Cegeka_Logo_santa.PNG"
+    "themeLogo": "https://raw.githubusercontent.com/Cegeka-Hybrid-Cloud/dt-di-public/main/img/Cegeka_Logo_santa.PNG"
 }
 ]
